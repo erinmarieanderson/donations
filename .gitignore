@@ -136,3 +136,6 @@ data/
 
 # ignore csvs
 *.csv
+
+# ignore xlsx
+*.xlsx
