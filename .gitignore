@@ -133,3 +133,6 @@ data/
 
 # ignore pickles
 *.pkl
+
+# ignore csvs
+*.csv
